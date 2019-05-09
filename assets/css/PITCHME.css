@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.spaced li {
+  margin:0 0 10px 0;
+}
+
+.shadow {
+  box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
+}
+
+.tip {
+  color:gray;
+  font-size: 0.6em !important;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.hdr {
+  color:rgb(44, 43, 43);
+  font-size: 0.6em !important;
+  text-align: left !important;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.headline h2 {
+  color: white;
+  letter-spacing: 0.05em;
+  font-family: 'Open Sans', sans-serif;
+  font-variant: small-caps;
+}
+
+.headline h4 {
+  color: red;
+  letter-spacing: 0.05em;
+  font-family: 'Open Sans', sans-serif;
+  font-variant: small-caps;
+}
+
+.headline h5 {
+  color: #4d4e4f;
+  letter-spacing: 0.05em;
+  font-family: 'Open Sans', sans-serif;
+  font-variant: small-caps;
+}
+
+.reveal section img {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.reveal a {
+  color: white;
+}
+
+.reveal a:hover {
+  color: white;
+  font-weight: bold;
+}
+
+
+.reveal ol li{
+  color: black;
+  /**font-weight: bold;**/
+  padding: 3px 10px;
+  margin:0 0 10px 0;  
+  margin-right: 10px;
+  border-radius: 3px;
+  font-family: 'Open Sans', sans-serif;
+  background-color:rgba(255,255,255,0.5);
+  content: counter(step-counter);
+  }
+
+.reveal section img {
+border: none;
+box-shadow: none;
+background: none;
+}
+
+.reveal .slide-number {
+color: black !important;
+}
+
+.reveal blockquote {
+  width: 100%;
+  padding: 17px;
+  border-radius: 17px;
+  background: rgba(255,255,255,0.2);
+}
+
+.reveal p span.slide-title {
+display: none;
+}
+
+.reveal .slides section .code-presenting-annotation {
+color: white;
+background: black;
+padding: 0px 15px;
+border-radius: 15px;
+opacity: 0.75 !important;
+font-size: 50% !important;
+}
+
+.box-stuff #boxed-text {
+  font-size: 0.6em !important;
+}
+
+
+.icon-color{color: #4d4e4f;}
+
+.icon-color2{color: red;}
+
+.tip2 {
+  color:lightgray;
+  font-size: 0.5em !important;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.tip3 {
+  color:gray;
+  font-size: 0.4em !important;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.reveal a {
+  color: blue;
+}
+
+.reveal a:hover {
+  color: green;
+  font-weight: bold;
+}
