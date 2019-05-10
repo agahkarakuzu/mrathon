@@ -30,3 +30,6 @@ Added/Improved: Multi-echo combine for QSM @jeremiefoquet
 ![](assets/img/jeremie_2.png)
 ---
 ![](assets/img/jeremie_1.png)
+---
+`mt_sat` in visualqc!
+![](assets/img/visualqc.png)
