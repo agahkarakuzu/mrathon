@@ -27,6 +27,6 @@ Added: DCE @benoitmoreau
 ![](assets/img/slide11.png)
 ---
 Added/Improved: Multi-echo combine for QSM @jeremiefoquet
-![](assets/img/jeremie2.png)
+![](assets/img/jeremie_2.png)
 ---
-![](assets/img/jeremie1.png)
+![](assets/img/jeremie_1.png)
