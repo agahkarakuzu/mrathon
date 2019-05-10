@@ -12,9 +12,21 @@
 ---
 ![](assets/img/slide7.png)
 ---
-Added: map_t2
+![](assets/img/thanks.png)
+---
+Added: map_t2 @Joao Periquito & @agahkarakuzu @tanguyduval
 ![](assets/img/slide8.png)
 ---
-Improved: Sensitivity analysis
+Improved: Sensitivity analysis (over SNR axis)
 ![](assets/img/slide9.png)
 ---
+TODO: Add heatmap for cutoff
+![](assets/img/slide10.png)
+---
+Added: DCE @benoitmoreau 
+![](assets/img/slide11.png)
+---
+Added/Improved: Multi-echo combine for QSM @jeremiefoquet
+![](assets/img/jeremie2.png)
+---
+![](assets/img/jeremie1.png)
