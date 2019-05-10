@@ -26,6 +26,10 @@ TODO: Add heatmap for cutoff
 Added: DCE @benoitmoreau 
 ![](assets/img/slide11.png)
 ---
+AND IT WORKS! 
+![](assets/img/benoit3.png)
+---
+---
 Added/Improved: Multi-echo combine for QSM @jeremiefoquet
 ![](assets/img/jeremie_2.png)
 ---
