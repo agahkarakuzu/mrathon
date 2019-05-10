@@ -29,7 +29,6 @@ Added: DCE @benoitmoreau
 AND IT WORKS! 
 ![](assets/img/benoit3.png)
 ---
----
 Added/Improved: Multi-echo combine for QSM @jeremiefoquet
 ![](assets/img/jeremie_2.png)
 ---
