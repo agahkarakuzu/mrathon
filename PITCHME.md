@@ -12,5 +12,9 @@
 ---
 ![](assets/img/slide7.png)
 ---
-map_t2
+Added: map_t2
 ![](assets/img/slide8.png)
+---
+Improved: Sensitivity analysis
+![](assets/img/slide9.png)
+---
